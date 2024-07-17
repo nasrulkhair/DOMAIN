@@ -12,9 +12,11 @@ The objective of this analysis is to:
 ## Data Sources
 The data used in this analysis comes from various reputable sources, including:
 - Historical trade data from:
-  dataset link1: https://www.macrotrends.net/2516/wti-crude-oil-prices-10-year-daily-chart
-  dataset link2: https://www.kaggle.com/datasets/toriqulstu/global-crude-petroleum-trade-1995-2021
-  dataset link3: https://archive.data.gov.my/data/en_US/dataset/imports-and-exports-of-crude-petroleum-malaysia/resource/ac90e933-2872-4242-96f9-af2aca95c173?view_id=955758fd-d689-4aef-a79f-755c86965626
+  
+  1. dataset link1: https://www.macrotrends.net/2516/wti-crude-oil-prices-10-year-daily-chart
+  2. dataset link2: https://www.kaggle.com/datasets/toriqulstu/global-crude-petroleum-trade-1995-2021
+  3. dataset link3: https://archive.data.gov.my/data/en_US/dataset/imports-and-exports-of-crude-petroleum-malaysia/resource/ac90e933-2872-4242-96f9-af2aca95c173?view_id=955758fd-d689-4aef-a79f-755c86965626
+  
 - Production data from Petronas and other relevant industry reports.
 - Economic data from governmental and international organizations.
 
